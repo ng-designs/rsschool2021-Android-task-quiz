@@ -31,7 +31,6 @@ class MainActivity : AppCompatActivity() {
         viewPager = requireNotNull(mainBinding).fragmentPager
         viewPager?.isUserInputEnabled = false
         viewPager?.isSaveEnabled = false
-//        viewPager?.offscreenPageLimit = pagesCount + 1
 
         val attrs = intArrayOf(R.attr.colorPrimaryDark)
         themes = resources.obtainTypedArray(R.array.styles)
