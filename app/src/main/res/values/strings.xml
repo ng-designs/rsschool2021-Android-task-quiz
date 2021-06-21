@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name" >Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resultTitle">ВАШ РЕЗУЛЬТАТ:</string>
+    <string name="resultValue">10</string>
+    <string name="restart_quiz_desc">Restart quiz</string>
+    <string name="share_results_desc">Share results</string>
+    <string name="close_app_decs">Close app</string>
 </resources>
