@@ -36,7 +36,6 @@ class MainActivity : AppCompatActivity() {
         themes = resources.obtainTypedArray(R.array.styles)
         pagesCount = resources.obtainTypedArray(R.array.quiz).length() + 1
         val questions = resources.obtainTypedArray(R.array.quiz)
-
         val themeCount = requireNotNull(themes).length()+1
 
         for(i in 0 until themeCount){
