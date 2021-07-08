@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="quiz">
+        <item>@array/q1</item>
+        <item>@array/q2</item>
+        <item>@array/q3</item>
+        <item>@array/q4</item>
+        <item>@array/q5</item>
+    </array>
+</resources>

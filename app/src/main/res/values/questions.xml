@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="InconsistentArrays">
+    <string-array name="q1">
+        <item>Из какого количества планет состоит наша Солнечная Система?</item>
+        <item>5</item>
+        <item>9</item>
+        <item>3</item>
+        <item>11</item>
+        <item>8</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="q2">
+        <item>Атрибут ellipsize для TextView:</item>
+        <item>Указывает где должен обрезаться текст, если он не вмещается в родительскую view</item>
+        <item>Указывает что должно быть на конце строки (троеточие, точка, и т.д.)</item>
+        <item>Устанавливает выравнивание строки относительно родительской view</item>
+        <item>Указывает что текст должен обрезаться, а не переносится на другую строку, если он не вмещается в родительскую view</item>
+        <item>Нет правильного ответа</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="q3">
+        <item>Квалификаторы ресурсов в проекте Android это:</item>
+        <item>Имена подпапок в папке res: values, layout, menu, raw, etc...</item>
+        <item>Расширения подпапок в папке res (пишутся через дефис): -sw720dp, -large, -land, etc...</item>
+        <item>Имена основных папок с ресурсами в Android-проекте: res, assets</item>
+        <item>Имена файлов *.xml, в которых хранится определенный вид ресурсов (строки, цвета, etc...)</item>
+        <item>Все ответы верны</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="q4">
+        <item>Что такое MIME-type?</item>
+        <item>Тип данных (мультимедиа), который может быть задан в Intent</item>
+        <item>Тип Intent</item>
+        <item>Тип HTTP-запроса</item>
+        <item>Типы изображений, разработанные специально для Android</item>
+        <item>Нет правильного ответа</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="q5">
+        <item>Длительная блокировка Main-потока может привести к:</item>
+        <item>Сворачиваю приложения в фон</item>
+        <item>IllegalArgumentException</item>
+        <item>Ни к чему не приводит. Приложение "убьет" задачу, которая блокирует поток, и продолжит выполнение</item>
+        <item>Системной ошибке ANR (Application Not Responding)</item>
+        <item>Все ответы верны</item>
+        <item>4</item>
+    </string-array>
+</resources>

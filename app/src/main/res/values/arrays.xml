@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="styles" >
+        <item>@style/Theme.Quiz.First</item>
+        <item>@style/Theme.Quiz.Second</item>
+        <item>@style/Theme.Quiz.Third</item>
+        <item>@style/Theme.Quiz.Fourth</item>
+        <item>@style/Theme.Quiz.Fifth</item>
+    </array>
+</resources>
